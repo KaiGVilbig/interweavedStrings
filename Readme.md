@@ -16,7 +16,7 @@ pip install matplotlib
 
 * enter comparisons to make inside `interweavedStrings.csv` file as follows:
     * s=someString,x=sub1,y=sub2
-    ![Example csv screenshot](https://github.com/KaiGVilbig/interweavedStrings/images/example_csv.png)
+    ![Example csv screenshot](https://github.com/KaiGVilbig/interweavedStrings/blob/main/images/example_csv.png)
     * Do not add any quotes around the string unless that is part of the string
     * Do not use Excel to edit the csv as it will add formatting that will be parsed incorrectly by the python script
     * You can add more checks by adding a new line and entering in more s, x, and y in the same format. 
